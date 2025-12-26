@@ -7,6 +7,7 @@ import Education from './Education';
 import OpenAccount from '../OpenAccount';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
+import NewsName from './NewsName';
 
 function HomePage() {
     return ( 
@@ -15,6 +16,7 @@ function HomePage() {
           <Hero/>
           <Award/>
           <Stats/>
+           <NewsName/>
           <Pricing/>
           <Education/>
           <OpenAccount/>

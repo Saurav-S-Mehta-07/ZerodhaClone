@@ -5,14 +5,11 @@ import Stats from './Stats';
 import Pricing from './Pricing';
 import Education from './Education';
 import OpenAccount from '../OpenAccount';
-import Navbar from '../Navbar';
-import Footer from '../Footer';
 import NewsName from './NewsName';
 
 function HomePage() {
     return ( 
         <>
-          <Navbar/>
           <Hero/>
           <Award/>
           <Stats/>
@@ -20,7 +17,6 @@ function HomePage() {
           <Pricing/>
           <Education/>
           <OpenAccount/>
-          <Footer/>
         </>
      );
 }

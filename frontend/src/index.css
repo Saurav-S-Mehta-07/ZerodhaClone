@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.nav-link{
+  margin-left: 40px;
+}
+
+.nav-link:hover{
+  color: rgb(69, 69, 244);
+}
+
+.footera-link,.footerb-link{
+  opacity: 0.7;
+  text-decoration: none;
+  color: black;
+}
+
+.footerb-link{
+  font-size: 0.8rem;
+  font-weight: 500;
+  opacity: 0.5;
+}
+
+.footera-link:hover,.footerb-link:hover{
+   color: blue;
+}
+
+.span{
+  text-decoration: none;
+  color: blue;
+  opacity: 0.7;
+}
+
+.span:hover{
+ color: black;
+ cursor: pointer;
+}

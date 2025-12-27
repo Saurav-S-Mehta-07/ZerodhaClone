@@ -17,7 +17,7 @@ function Stats() {
                     <p className="text-muted fw-semibold">
                       No gimmicks, spam, "gamification", or annoying push notifications.
                        High quality apps that you use at your pace, the way you like.
-                       <span style={{color:"blue"}}>Our philosophies.</span> 
+                       <span className='span'> Our philosophies.</span> 
                     </p>
                     <h2 className="fs-5 text-muted">The Zerodha universe</h2>
                     <p className="text-muted fw-semibold">
@@ -26,7 +26,7 @@ function Stats() {
                     </p>
                     <h2 className="fs-5 text-muted">Do better with money</h2>
                     <p className="text-muted fw-semibold">
-                      With initiatives like <span style={{color:"blue"}}>Nudge</span> and <span style={{color:"blue"}}> Kill Switch</span>, we don't just
+                      With initiatives like <span className='span'>Nudge</span> and <span className='span'> Kill Switch</span>, we don't just
                       facilitate transactions, but actively help you do better with your
                       money.
                     </p>
@@ -36,11 +36,11 @@ function Stats() {
                    <img src='media/images/ecosystem.png' style={{ width: "100%" }} />
                  
                    <div className='text-center'>
-                     <a href='' className='mx-5' style={{textDecoration:"none"}}>
+                     <a href='' className='mx-5 span fw-semibold'>
                        Explore our products <i className="fa-solid fa-arrow-right"></i>
                      </a>
                  
-                     <a href='' style={{textDecoration:"none"}}>
+                     <a href='' className='span fw-semibold'>
                        Try Kite demo <i className="fa-solid fa-arrow-right"></i>
                      </a>
                    </div>

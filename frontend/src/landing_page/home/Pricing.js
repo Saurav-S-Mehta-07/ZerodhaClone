@@ -2,7 +2,7 @@ import React from 'react'
 
 function Pricing() {
     return ( 
-        <div className='container mt-5' style={{marginBottom:"7%"}}>
+        <div className='container mt-5 mb-5'>
                
             <div className='row'>
 
@@ -11,7 +11,7 @@ function Pricing() {
                     <p className='text-muted fw-semibold'>
                         We pioneered the concept of discount broking and price transparency in India. Flat fees and no hidden charges.
                     </p>
-                    <a href='' className='fw-semibold' style={{textDecoration:"none"}}>
+                    <a href='' className='fw-semibold span' >
                        See pricing <i className="fa-solid fa-arrow-right"></i>
                      </a>
                </div>

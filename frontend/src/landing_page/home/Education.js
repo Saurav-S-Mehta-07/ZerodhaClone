@@ -6,7 +6,7 @@ function Education() {
             <div className='row mt-5'>
 
                 <div className='col-6'>
-                   <img src='media/images/education.svg' style={{ width: "90%"}} />
+                   <img src='media/images/education.svg' style={{ width: "70%"}} />
                 </div>
 
                 <div className='col-6 p-3'>
@@ -16,7 +16,7 @@ function Education() {
                          in the world covering everything from the basics to advanced
                           trading.
                      </p>
-                     <a href='' style={{textDecoration:"none"}} className='fw-semibold'>
+                     <a href=''className='fw-semibold span'>
                        Varsity <i className="fa-solid fa-arrow-right"></i>
                      </a>
 
@@ -24,13 +24,10 @@ function Education() {
                         TradingQ&A, the most active trading and investment community
                          in India for all your market related queries.
                      </p>
-                     <a href='' style={{textDecoration:"none"}} className='fw-semibold'>
+                     <a href='' className='fw-semibold span'>
                        TradingQ&A  <i className="fa-solid fa-arrow-right"></i>
                      </a>
                 </div>
-
-
-
             </div>
         </div>
      );

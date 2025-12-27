@@ -2,7 +2,7 @@ import React from 'react'
 
 function OpenAccount() {
     return ( 
-         <div className='container p-5 mt-2'>
+        <div className='container p-5 mt-2'>
 
             <div className='row text-center'>
 

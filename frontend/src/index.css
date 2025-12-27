@@ -59,3 +59,20 @@ code {
  color: black;
  cursor: pointer;
 }
+
+
+/*universe logo product page*/
+
+.universeLogo{
+  height: 35%;
+  width: 55%;
+}
+
+.universePara{
+  margin-top: 6px ;
+  padding: 0 20px;
+  opacity: 0.6;
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 function Hero() {
   return (
-    <div style={{ marginTop: "4%"}} >
+    <div className="container">
       <div className="row mb-5 text-center p-5" style={{width:"100%"}}>
           <div className="col">
             <h1 className="fs-3 mt-5 mb-3">Pricing</h1>

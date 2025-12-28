@@ -15,8 +15,13 @@ function ProductPage() {
         tryDemo="Try demo"
         learnMore="Learn more"
       />
-      
-      <RightSection imageUrl='media/images/console.png' productName="Console" productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations." addLink="Learn more" />
+
+      <RightSection
+        imageUrl="media/images/console.png"
+        productName="Console"
+        productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations."
+        addLink="Learn more"
+      />
 
       <LeftSection
         imageUrl="media/images/coin.png"
@@ -25,8 +30,12 @@ function ProductPage() {
         coin="coin"
       />
 
-      <RightSection imageUrl='media/images/kiteconnect.png' productName="Kite Connect API" productDescription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase." addLink="Kite Connect" />
-
+      <RightSection
+        imageUrl="media/images/kiteconnect.png"
+        productName="Kite Connect API"
+        productDescription="Build powerful trading platforms and experiences with our super simple HTTP/JSON APIs. If you are a startup, build your investment app and showcase it to our clientbase."
+        addLink="Kite Connect"
+      />
 
       <LeftSection
         imageUrl="media/images/varsity.png"

@@ -172,12 +172,6 @@ const WatchListActions = ({ uid }) => {
             <BarChartOutlined className="icon" />
           </button>
         </Tooltip>
-     
-        {/* <Tooltip title="Delete" placement="top" arrow TransitionComponent={Grow}>
-           <button className="action">
-              <DeleteOutlinedIcon className="icon"/>
-           </button>
-        </Tooltip> */}
 
         <Tooltip title="More" placement="top" arrow TransitionComponent={Grow}>
           <button className="action">
